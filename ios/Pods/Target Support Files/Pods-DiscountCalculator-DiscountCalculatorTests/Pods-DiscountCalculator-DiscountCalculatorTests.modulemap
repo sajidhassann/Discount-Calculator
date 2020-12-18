@@ -1,0 +1,6 @@
+module Pods_DiscountCalculator_DiscountCalculatorTests {
+  umbrella header "Pods-DiscountCalculator-DiscountCalculatorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
