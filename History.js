@@ -49,6 +49,7 @@ const History = ({navigation: {goBack, setOptions}, route}) => {
             paddingHorizontal: 10,
             paddingVertical: 2,
             marginRight: 10,
+            borderRadius: 4,
             borderColor: 'white',
             borderWidth: 2,
           }}>
